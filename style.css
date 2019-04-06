@@ -1,0 +1,21 @@
+body{
+	background: url(clark-tibbs-367075-unsplash.jpg);
+	background-size: cover;
+}
+
+.btn-block{
+	margin-top: 10px;
+}
+
+.btn-primary{
+	background-color: rgba(94, 8, 149,0.5);
+	border: none;
+	font-family: 'Roboto Slab', serif;
+	color: #FDD000;
+}
+
+.btn-primary:hover{
+	background-color: rgba(88, 44, 116,0.5);
+	transform: scale(0.9);
+	transition: all 1500ms;
+}
